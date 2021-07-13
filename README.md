@@ -27,9 +27,9 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik8696&layout=compact&hide=html&theme=radical" alt="FirdausJawed" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdausJawed&layout=compact&hide=html&theme=radical" alt="FirdausJawed" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik8696&show_icons=true&theme=radical&count_private=true" alt="FirdausJawed" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FirdausJawed&show_icons=true&theme=radical&count_private=true" alt="FirdausJawed" />
 
 
 

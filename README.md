@@ -10,7 +10,7 @@
 
 # Overview About Me:-
 
-- 🔭 I’m currently working on <strong>Graph QL</strong>
+- 🔭 I’m currently working on <strong>EJS</strong>
 
 - 🌱 I’m currently learning **Web Development**
 

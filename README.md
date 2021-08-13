@@ -1,16 +1,16 @@
-<h1 align="center">Hi there 👋, I'm Firdaus Jawed 👧</h1>
+<h1 align="center">Hay there 👋, I'm Firdaus Jawed 👧</h1>
 <h3 align="center">Budding Web Developer 💻 || Junior in EE at NIT Patna 👩‍🎓 || Aspiring SDE🖋</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FirdausJawed" alt="FirdausJawed" /> </p>
 
 
-<p align="center">hello there this is Firdaus Jawed a sophomere at NIT Patna. I am an aspring web developer and an individual who loves to design and code. I am ready to collaborate on interesting🤩 web development projects. </p>
+<p align="center">Hello there this is Firdaus Jawed a sophomere at NIT Patna. I am an aspring web developer and an individual who loves to design and code. I am ready to collaborate on interesting🤩 web development projects. </p>
 
 
 <br>
 
 # Overview About Me:-
 
-- 🔭 I’m currently working on <strong>EJS</strong>
+- 🔭 I’m currently working on <strong>React js</strong>
 
 - 🌱 I’m currently learning **Web Development**
 

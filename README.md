@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 🤔 My recently completed project is [DRUM-KIT](https://github.com/FirdausJawed/drum)
+- 🤔 My recently completed project is [Blogging-Website](https://github.com/FirdausJawed/blogging-website)
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/FirdausJawed?tab=repositories)
 

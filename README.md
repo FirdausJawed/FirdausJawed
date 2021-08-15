@@ -24,14 +24,18 @@
 - 📫 How to reach me **firdausj.ug20.ee@nitp.ac.in**
 
 
+<p align="center">
+    <a href="https://github.com/FirdausJawed/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="FirdausJawed streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FirdausJawed&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdausJawed&layout=compact&hide=html&theme=radical" alt="FirdausJawed" />
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FirdausJawed&show_icons=true&theme=radical&count_private=true" alt="FirdausJawed" />
-
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=FirdausJawed&show_icons=true&theme=radical&count_private=true" alt="FirdausJawed" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdausJawed&layout=compact&hide=html&theme=radical" alt="FirdausJawed" />
+</p>
 
 
 

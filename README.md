@@ -28,6 +28,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdausJawed&layout=compact&hide=html&theme=radical" alt="FirdausJawed" />
+<br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FirdausJawed&show_icons=true&theme=radical&count_private=true" alt="FirdausJawed" />
 

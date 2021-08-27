@@ -1,5 +1,5 @@
 
-<a href="#"><p align="center" ><img width="300px" height="300px" src="/—Pngtree—masked cyber hacker computer_6566761.png" height="175px"/></p></a>
+<a href="#"><p align="center" ><img width="300px" height="300px" src="/abc.png" height="175px"/></p></a>
 
 <h1 align="center">Hay there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Firdaus Jawed 👧</h1>
 <h3 align="center">Budding Web Developer 💻 || Junior in EE at NIT Patna 👩‍🎓 || Aspiring SDE🖋</h3>

@@ -6,12 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FirdausJawed" alt="FirdausJawed" /> </p>
 
 
-<p align="center">Hello there this is Firdaus Jawed a sophomere at NIT Patna. I am an aspring web developer and an individual who loves to design and code. I am ready to collaborate on interesting🤩 web development projects. </p>
+<p align="center">Hello there this is Firdaus Jawed, a sophomere at NIT Patna. I am an aspring web developer and an individual who loves to design and code. I am ready to collaborate on interesting🤩 web development projects. </p>
 
 
 <br>
 
-# Overview About Me:-
+<h1 align="center">🧾 Overview About Me:-</h1>
 
 - 🔭 I’m currently working on <strong>React js</strong>
 
@@ -27,7 +27,7 @@
 - 📧 Mail me **firdausj.ug20.ee@nitp.ac.in**
 
 
-## 🏅 My Tech-Stack:
+<h1 align="center">🏅 My Tech-Stack:</h1>
 <p align="center">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
@@ -48,14 +48,14 @@
 </p>
 <br/>
 
-## ✨🔥 My Streak:
+<h1 align="center">✨ My Streak:</h1>
 <p align="center">
     <a href="https://github.com/FirdausJawed/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="FirdausJawed streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FirdausJawed&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My GitHub stats:
+<h1 align="center"> 📈 My GitHub stats:</h1>
 
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=FirdausJawed&show_icons=true&theme=radical&count_private=true" alt="FirdausJawed" />
@@ -64,7 +64,7 @@
 
 
 
-## 📫 How to reach me?
+<h1 align="center"> 📫 How to reach me?</h1>
 <p align="center"> If you would like to discuss these things, you can join me on LinkedIn. You can also ask me anything.</p>
 
 <p align="center"><a href="https://github.com/FirdausJawed" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/firdaus-jawed-7ab61b208/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>

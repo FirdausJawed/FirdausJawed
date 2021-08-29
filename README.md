@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FirdausJawed" alt="FirdausJawed" /> </p>
 
 
-<p align="center">Hello there this is Firdaus Jawed, a sophomere at NIT Patna. I am an aspring web developer and an individual who loves to design and code. I am ready to collaborate on interesting🤩 web development projects. </p>
+<p align="center">Hello there this is Firdaus Jawed, a sophomere at NIT Patna. I am an aspiring web developer and an individual who loves to design and code. I am ready to collaborate on interesting🤩 web development projects. </p>
 
 
 <br>

@@ -48,14 +48,6 @@
 </p>
 <br/>
 
-
-
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=FirdausJawed&label=Profile%20views&color=0e75b6&style=flat" alt="FirdausJawed" /> </p> -->
-
-
-
-
-
 <h1 align="center">✨ My Streak:</h1>
 <p align="center">
     <a href="https://github.com/FirdausJawed/github-readme-streak-stats">

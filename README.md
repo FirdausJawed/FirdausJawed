@@ -75,7 +75,10 @@
 
 
 <h1 align="center"> 🎯 My Activities</h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FirdausJawed" alt="FirdausJawed" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FirdausJawed&theme=onedark" alt="FirdausJawed" /></a> </p>
+
+<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
 
 <h1 align="center"> 📫 How to reach me?</h1>
 <p align="center"> If you would like to discuss these things, you can join me on LinkedIn. You can also ask me anything.</p>

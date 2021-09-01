@@ -74,7 +74,7 @@
 
 
 
-<h1 align="center"> 🎯📋🚩 My Activities</h1>
+<h1 align="center"> 🎯 My Activities</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FirdausJawed" alt="FirdausJawed" /></a> </p>
 
 <h1 align="center"> 📫 How to reach me?</h1>

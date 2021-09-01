@@ -67,7 +67,7 @@
 
 
 <h1 align="center"> 🎯 My Activities</h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FirdausJawed&theme=onedark" alt="FirdausJawed" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=FirdausJawed&theme=onedark" alt="FirdausJawed" /></a> </p>
 
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  -->

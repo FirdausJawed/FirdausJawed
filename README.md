@@ -48,8 +48,6 @@
   </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"/> </a>
     <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/> </a>
-      
-      
 </p>
 <br/>
 

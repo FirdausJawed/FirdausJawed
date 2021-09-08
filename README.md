@@ -13,7 +13,7 @@
 
 <h1 align="center">🧾 Overview About Me:-</h1>
 
-- 🔭 I’m currently working on <strong>React js</strong>
+- 🔭 I’m currently working on <strong>Next js</strong>
 
 - 🌱 I’m currently learning **Web Development**
 

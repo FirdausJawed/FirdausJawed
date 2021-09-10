@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 🤔 My recently completed project is [Blogging-Website](https://github.com/FirdausJawed/blogging-website)
+- 🤔 My recently completed project is [target-note](https://github.com/FirdausJawed/target-note)
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/FirdausJawed?tab=repositories)
 

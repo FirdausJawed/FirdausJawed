@@ -25,6 +25,7 @@
 [LinkedIn](https://www.linkedin.com/in/firdaus-jawed-7ab61b208/)
 
 - 📧 Mail me **firdausj.ug20.ee@nitp.ac.in**
+- 🤞 Read my blogs on me on [medium](https://medium.com/@firdausj.ug20.ee)
 
 
 <h1 align="center">🏅 My Tech-Stack:</h1>

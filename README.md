@@ -82,6 +82,6 @@
 <p align="center"><a href="https://github.com/FirdausJawed" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/firdaus-jawed-7ab61b208/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 <br>
 
-<h1 align="center"> Don't just fork it, Star it too!</h1>
+<h1 align="center" fontfamily="cursive"> Don't just fork it, Star it too!</h1>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

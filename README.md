@@ -13,9 +13,9 @@
 
 <h1 align="center">🧾 Overview About Me:-</h1>
 
-- 🔭 I’m currently working on <strong>Next js</strong>
+- 🔭 I’m currently working on <strong>Multiplicative Modulo Inverse</strong>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Competitve Programming**
 
 - 🤔 My recently completed project is [target-note](https://github.com/FirdausJawed/target-note)
 
@@ -72,9 +72,6 @@
 
 <h1 align="center"> 🎯 My Activities</h1>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=FirdausJawed&theme=onedark" alt="FirdausJawed" /></a> </p>
-
-<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- -->
 
 <h1 align="center"> 📫 How to reach me?</h1>
 <p align="center"> If you would like to discuss these things, you can join me on LinkedIn. You can also ask me anything. Really excited to contact you!!</p>

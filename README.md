@@ -1,12 +1,12 @@
 
 <a href="#"><p align="center" ><img width="300px" height="300px" src="/abc.png" height="175px"/></p></a>
 
-<h1 align="center">Hay there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Firdaus Jawed 👧</h1>
+<h1 align="center">Hii there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Firdaus Jawed 👧</h1>
 <h3 align="center">Budding Web Developer 💻 || sophomere at NIT Patna 👩‍🎓 || Aspiring SDE🖋</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FirdausJawed" alt="FirdausJawed" /> </p>
 
 
-<p align="center">Hello there this is Firdaus Jawed, a sophomere at NIT Patna. I am an aspiring web developer and an individual who loves to design and code. I am ready to collaborate on interesting🤩 web development projects. </p>
+<p align="center">Hey there this is Firdaus Jawed, a sophomere at NIT Patna. I am an aspiring web developer and an individual who loves to design and code. I am ready to collaborate on interesting🤩 web development projects. </p>
 
 
 <br>
@@ -52,7 +52,7 @@
 </p>
 <br/>
 
-<h1 align="center">✨ My Streak:</h1>
+<h1 align="center">✨My Streak:</h1>
 <p align="center">
     <a href="https://github.com/FirdausJawed/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="FirdausJawed streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FirdausJawed&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>

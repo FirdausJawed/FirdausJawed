@@ -13,9 +13,9 @@
 
 <h1 align="center">🧾 Overview About Me:-</h1>
 
-- 🔭 I’m currently working on <strong>Multiplicative Modulo Inverse</strong>
+- 🔭 I’m currently working on <strong>improving my CP skills</strong>
 
-- 🌱 I’m currently learning **Competitve Programming**
+- 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 🤔 My recently completed project is [target-note](https://github.com/FirdausJawed/target-note)
 

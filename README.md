@@ -13,7 +13,7 @@
 
 <h1 align="center">🧾 Overview About Me:-</h1>
 
-- 🔭 I’m currently working on <strong>improving my CP skills</strong>
+- 🔭 I’m currently working on <strong>sliding window technique</strong>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 

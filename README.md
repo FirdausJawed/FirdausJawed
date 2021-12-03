@@ -69,7 +69,8 @@
 <a href="https://github.com/FirdausJawed/github-readme-activity-graph"><img alt="FirdausJawed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FirdausJawed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <h1 align="center"> 🎯 My Activities</h1>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=FirdausJawed&theme=onedark" alt="FirdausJawed" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=FirdausJawed&theme=onedark" alt="FirdausJawed" /></a>
+</p>
 
 <h1 align="center"> 📫 How to reach me?</h1>
 <p align="center"> If you would like to discuss these things, you can join me on LinkedIn. You can also ask me anything. Really excited to contact you!!</p>

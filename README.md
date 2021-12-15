@@ -73,6 +73,8 @@
 </p>
 
 <h1 align="center"> 📫 How to reach me?</h1>
+
+
 <p align="center"> If you would like to discuss these things, you can join me on LinkedIn. You can also ask me anything. Really excited to contact you!!</p>
 
 <p align="center"><a href="https://github.com/FirdausJawed" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/firdaus-jawed-7ab61b208/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>

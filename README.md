@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on <strong>CP</strong>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning **Dynamic Programming**
 
 - 🤔 My recently completed project is [target-note](https://github.com/FirdausJawed/target-note)
 

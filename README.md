@@ -28,6 +28,8 @@
 - 🤞 Read my blogs on me on [medium](https://medium.com/@firdausj.ug20.ee)
 
 
+
+
 <h1 align="center">🏅 My Tech-Stack:</h1>
 <p align="center">
    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
